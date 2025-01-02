@@ -68,21 +68,23 @@
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
             <div class="content ps-0 ps-lg-5">
-              <p class="fst-italic">
-              Our journey began with a simple goal: to offer exceptional pool maintenance and repair services to our community
-              </p>
-              <ul>
-                <li><i class="bi bi-check-circle-fill"></i> <span>We understand that every pool is unique. </span></li>
-                <li><i class="bi bi-check-circle-fill"></i> <span>We offer tailored services to meet your specific needs and preferences.</span></li>
-                <li><i class="bi bi-check-circle-fill"></i> <span>We pride ourselves on our punctuality, professionalism, and the ability to deliver what we promise</span></li>
-              </ul>
-              <p>
-              Over the years, our commitment to quality and customer service has allowed us to expand our offerings and reach.
-                   </p>
+                  <!-- <h3>Simplify Pool Maintenance with Our Expert Services</h3> -->
+
+                  <p class="fst-italic">
+                  Our journey began with a simple goal: to offer exceptional pool maintenance and repair services to our community
+                  </p>
+                  <ul>
+                    <li><i class="bi bi-check-circle-fill"></i> <span>We understand that every pool is unique. </span></li>
+                    <li><i class="bi bi-check-circle-fill"></i> <span>We offer tailored services to meet your specific needs and preferences.</span></li>
+                    <li><i class="bi bi-check-circle-fill"></i> <span>We pride ourselves on our punctuality, professionalism, and the ability to deliver what we promise</span></li>
+                  </ul>
+                  <p>
+                  Over the years, our commitment to quality and customer service has allowed us to expand our offerings and reach.
+                      </p>
 
               <div class="position-relative mt-4">
                 <img src="assets/img/about-2.jpg" class="img-fluid rounded-4" alt="">
-                <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
+                <!-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a> -->
               </div>
             </div>
           </div>
