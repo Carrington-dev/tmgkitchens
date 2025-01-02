@@ -2,9 +2,9 @@ Here's a suggested README for the [tmgkitchens repository](https://github.com/Ca
 
 ---
 
-# Rendy Pool Services
+# TMG Kitchens and Log Homes
 
-A web project for Rendy Pool Services, a pool maintenance and repair company.
+A web project for TMG Kitchens and Log Homes, a pool maintenance and repair company.
 
 ## Table of Contents
 - [About](#about)
@@ -14,7 +14,7 @@ A web project for Rendy Pool Services, a pool maintenance and repair company.
 - [License](#license)
 
 ## About
-This repository is built to provide an online presence for Rendy Pool Services. It includes pages for services, pricing, testimonials, and contact information.
+This repository is built to provide an online presence for TMG Kitchens and Log Homes. It includes pages for services, pricing, testimonials, and contact information.
 
 ## Features
 - **Responsive Design**: Built with Bootstrap for mobile and desktop compatibility.
