@@ -1,4 +1,4 @@
-Here's a suggested README for the [rendypoolservices repository](https://github.com/Carrington-dev/rendypoolservices):
+Here's a suggested README for the [tmgkitchens repository](https://github.com/Carrington-dev/tmgkitchens):
 
 ---
 
@@ -25,7 +25,7 @@ This repository is built to provide an online presence for Rendy Pool Services. 
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Carrington-dev/rendypoolservices.git
+   git clone https://github.com/Carrington-dev/tmgkitchens.git
    ```
 2. Host the project on a web server.
 
@@ -33,6 +33,6 @@ This repository is built to provide an online presence for Rendy Pool Services. 
 Visit the homepage to explore services and contact options.
 
 ## License
-This project uses the [Stemgon template](https://stemgon.co.za/rendypoolservices/) by Stemgon, subject to [Stemgon's license](https://stemgon.co.za/license/).
+This project uses the [Stemgon template](https://stemgon.co.za/tmgkitchens/) by Stemgon, subject to [Stemgon's license](https://stemgon.co.za/license/).
 
 --- 
