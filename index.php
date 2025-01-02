@@ -118,9 +118,9 @@
                 <i class="bi bi-activity"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Pool Building</h3>
+                <h3>Kitchen Cupboards, Remodelling and Repairs</h3>
               </a>
-              <p>Pool Building: Whether you're looking to install a new pool or upgrade your existing one, our expert team can bring your vision to life with precision and efficiency.</p>
+              <p>Our partners are experts in providing kitchen cupboard remodelling and repairs to improve your kitchen's functionality and aesthetics.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -130,9 +130,9 @@
                 <i class="bi bi-broadcast"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Pool Repair</h3>
+                <h3>BIC (Built-In Cupboard) Installations and Repairs</h3>
               </a>
-              <p>From minor fixes to major overhauls, we have the expertise to handle any repair job, including leak detection, pump repairs, and more.</p>
+              <p>Looking for seamless storage solutions? Our partners specialise in BIC installations and repairs to create a sleek, modern appearance in any room.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -142,9 +142,9 @@
                 <i class="bi bi-easel"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Pool Renovations</h3>
+                <h3>Wood Flooring Installation and Repair                </h3>
               </a>
-              <p>Want to give your pool a fresh new look? Our renovation services include retiling, resurfacing, and upgrading to energy-efficient equipment.</p>
+              <p>Achieve a stunning and warm atmosphere in your home with wood flooring. Our partners are skilled in wood flooring installation and repair, ensuring your floors look their best and last for years to come.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -156,7 +156,7 @@
               <a href="#" class="stretched-link">
                 <h3>Maintenance Services</h3>
               </a>
-              <p>Keep your pool in top condition year-round with our professional maintenance services, including cleaning, chemical balancing, and equipment inspections.</p>
+              <p>Keep your kitchen in top condition year-round with our professional maintenance services, including rebuilding, repair, and etc.</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
@@ -182,7 +182,7 @@
               <a href="#" class="stretched-link">
                 <h3>Our Efficiency</h3>
               </a>
-              <p> Our team consists of highly skilled professionals with years of experience in the industry, ensuring that your pool is in capable hands.</p>
+              <p> Our team consists of highly skilled professionals with years of experience in the industry, ensuring that your kitchen is in capable hands.</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
