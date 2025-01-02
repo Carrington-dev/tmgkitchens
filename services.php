@@ -67,9 +67,9 @@
                 <i class="bi bi-activity"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>New Pools or Refurbishments</h3>
+                <h3>Kitchen Cupboards, Remodelling and Repairs</h3>
               </a>
-              <p>Investing in your first swimming pool or need to refurbish your current one? We’re the best team for either job. Refurbishing your pool is not as expensive as you may think.</p>
+              <p>Our partners are experts in providing kitchen cupboard remodelling and repairs to improve your kitchen's functionality and aesthetics.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -79,9 +79,9 @@
                 <i class="bi bi-broadcast"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Pool Pumps And Filters</h3>
+                <h3>BIC (Built-In Cupboard) Installations and Repairs</h3>
               </a>
-              <p>Whether your pool pump needs to be replaced or repaired, we’ll give you the best deal, advice and service on what’s required.</p>
+              <p>Looking for seamless storage solutions? Our partners specialise in BIC installations and repairs to create a sleek, modern appearance in any room.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -91,45 +91,48 @@
                 <i class="bi bi-easel"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Heat Pumps and Solar installations</h3>
+                <h3>Wood Flooring Installation and Repair                </h3>
               </a>
-              <p>Heating your pool has never been easier, with the introduction of inverter technology heat pumps are affordable to run. Solar installations harness our African sun and pumps it straight into your pool</p>
+              <p>Achieve a stunning and warm atmosphere in your home with wood flooring. Our partners are skilled in wood flooring installation and repair, ensuring your floors look their best and last for years to come.</p>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="service-item  position-relative">
-              <div class="icon">
-                <i class="bi bi-activity"></i>
-              </div>
-              <a href="#" class="stretched-link">
-                <h3>Pool Building</h3>
-              </a>
-              <p>Pool Building: Whether you're looking to install a new pool or upgrade your existing one, our expert team can bring your vision to life with precision and efficiency.</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="bi bi-broadcast"></i>
+                <i class="bi bi-bounding-box-circles"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Pool Repair</h3>
+                <h3>Maintenance Services</h3>
               </a>
-              <p>From minor fixes to major overhauls, we have the expertise to handle any repair job, including leak detection, pump repairs, and more.</p>
+              <p>Keep your kitchen in top condition year-round with our professional maintenance services, including rebuilding, repair, and etc.</p>
+              <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="bi bi-easel"></i>
+                <i class="bi bi-calendar4-week"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Pool Renovations</h3>
+                <h3>Shelving and Storage Solutions</h3>
               </a>
-              <p>Want to give your pool a fresh new look? Our renovation services include retiling, resurfacing, and upgrading to energy-efficient equipment.</p>
+              <p>Maximise your space with bespoke shelving and storage solutions. Our partners will design and install shelves that cater to your needs, creating an organised and clutter-free environment.</p>
+              <a href="#" class="stretched-link"></a>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-chat-square-text"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Fitted Wardrobes and Closet Systems</h3>
+              </a>
+              <p>Upgrade your bedroom with fitted wardrobes and closet systems designed to optimise storage space and enhance your room's aesthetic.</p>
+              <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
 
