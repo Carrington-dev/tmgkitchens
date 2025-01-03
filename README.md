@@ -26,6 +26,7 @@ This repository is built to provide an online presence for TMG Kitchens and Log 
 1. Clone the repo:
    ```bash
    git clone https://github.com/Carrington-dev/tmgkitchens.git
+   https://smithhandymanservice.com/carpentry/
    ```
 2. Host the project on a web server.
 
