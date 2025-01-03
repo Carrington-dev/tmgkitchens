@@ -61,20 +61,20 @@
 
         <div class="row gy-4">
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3>Simplify Pool Maintenance with Our Expert Services</h3>
+            <h3>Make your idea a reality</h3>
             <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
-            <p><?php echo "$company"; ?> has been a leader in the pool services industry for over 20 years. Our mission is to provide top-notch services to keep your pool safe, clean, and beautiful.</p>
-            <p>Founded in 2004, <?php echo "$company"; ?> has grown from a small, local business into a leading provider of comprehensive pool services</p>
+            <p><?php echo "$company"; ?> knows that every home is different and needs specific modifications to make it your own. We can make your wildest dreams come true with completely custom woodworking and carpentry. </p>
+            <p>Founded in 2004, <?php echo "$company"; ?> has grown from a small, local business into a leading provider of comprehensive carpentry services</p>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
             <div class="content ps-0 ps-lg-5">
                   <!-- <h3>Simplify Pool Maintenance with Our Expert Services</h3> -->
 
                   <p class="fst-italic">
-                  Our journey began with a simple goal: to offer exceptional pool maintenance and repair services to our community
+                  Our journey began with a simple goal: to offer exceptional wood maintenance and repair services to our community
                   </p>
                   <ul>
-                    <li><i class="bi bi-check-circle-fill"></i> <span>We understand that every pool is unique. </span></li>
+                    <li><i class="bi bi-check-circle-fill"></i> <span>We understand that every idea is unique. </span></li>
                     <li><i class="bi bi-check-circle-fill"></i> <span>We offer tailored services to meet your specific needs and preferences.</span></li>
                     <li><i class="bi bi-check-circle-fill"></i> <span>We pride ourselves on our punctuality, professionalism, and the ability to deliver what we promise</span></li>
                   </ul>
