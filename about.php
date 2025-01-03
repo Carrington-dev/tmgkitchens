@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-  <?php include 'includes/details.php';?>
+<?php include 'includes/details.php';?>
 
+<?php 
+      $page = "About";
+    ?>
   
   
   <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Pool Service Company | <?php echo "$company"; ?></title>
+    <title><?php echo "$page"; ?> | <?php echo "$company"; ?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
 
